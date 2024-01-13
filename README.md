@@ -1,5 +1,9 @@
 # Solana Ghost Tracker Bot 👻🌐
 
+
+## 🎨 Dynamic & Colorful 
+Solana Ghost Tracker & Telegram Tracker Bot repository, where you can track your Solana assets and interact with the Solana blockchain through our Telegram bot.
+
 ![Solana Ghost Tracker Banner](https://raw.githubusercontent.com/LikhonScripts/SolanaGhostTrackerBot/main/IMG_8677.png)
 
 
@@ -43,7 +47,7 @@ The Solana Ghost Tracker Bot is your gateway to managing and tracking your Solan
 ## 💖 Support Our Work
 - [![Patreon](https://img.shields.io/badge/Support_us_on_Patreon-F96854?style=flat-square&logo=patreon)](https://www.patreon.com/LikhonScripts)
 
-### 💸 Crypto Donations
+### 💸 Check Crypto Donations & Wallets For Contributor Workflow!
 - **Solana (SOL):** `DfLQjUnA9rwg4BBqnUGytpsiRNVEm7UmK4ERL2ibE7Yi`
 - **Ethereum (ETH):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A`
 
