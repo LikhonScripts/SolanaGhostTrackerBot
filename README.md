@@ -1,58 +1,40 @@
-# Solana Ghost Tracker 👻
+# Solana Ghost Tracker Bot 👻🌐
 
 ![Solana Ghost Tracker Banner](https://raw.githubusercontent.com/LikhonScripts/SolanaGhostTrackerBot/main/IMG_8677.png)
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/SolanaGhostTrackerBot)
-[![Forks](https://img.shields.io/github/forks/LikhonScripts/SolanaGhostTrackerBot?style=flat-square&label=Forks)](https://github.com/LikhonScripts/SolanaGhostTrackerBot/network/members)
-[![Stars](https://img.shields.io/github/stars/LikhonScripts/SolanaGhostTrackerBot?style=flat-square&label=Stars)](https://github.com/LikhonScripts/SolanaGhostTrackerBot/stargazers)
-![Contributors](https://img.shields.io/github/contributors/LikhonScripts/SolanaGhostTrackerBot?color=green&style=flat-square)
+## 🚀 Stay Ahead with Real-time Solana Insights
+The Solana Ghost Tracker Bot is your gateway to managing and tracking your Solana assets directly from Telegram. With AI-driven capabilities, this bot offers real-time portfolio insights and much more!
 
-## 🚀 About the Bot
-Solana Ghost Tracker is an AI-based Telegram Bot designed for the Solana blockchain. It offers a comprehensive portfolio tracker, real-time insights, and seamless wallet tracking capabilities. Analyze transactions, manage assets, and stay updated with Solana blockchain utilities right from Telegram!
+### 🛠️ Features At A Glance
+- **🔎 Wallet Oversight**: Comprehensive monitoring for your Solana wallet.
+- **📈 Transaction Analytics**: In-depth analysis of your Solana transactions.
+- **💡 Smart Contract Tools**: Create tokens and inspect smart contracts with ease.
+- **🔁 DexScanner Integration**: Interact with Solana's DEX for trades and alerts.
+- **🤖 AI-Powered Bot**: Intelligent and responsive Telegram bot assistance.
 
-### 🌟 Features
-- **Wallet Tracking**: Keep a close eye on your Solana wallets.
-- **Transaction Analysis**: Deep dive into your transaction details.
-- **Create Tokens & Check Smart Contracts**: Utilize Solana blockchain features efficiently.
-- **DexScanner & Buy Bot**: Explore and interact with Solana's decentralized exchange.
-- **Alerts**: Stay informed with real-time updates.
-- **AI-Driven Assistance**: Making your Solana journey smoother.
+## 🌟 Get Involved
+[![Telegram](https://img.shields.io/badge/Join_us_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/SolanaGhostTrackerBot)
 
-## 💬 Get Support
-Need help or support? Join our community on Telegram for assistance.
-[![Telegram Support](https://img.shields.io/badge/Telegram-LikhonScripts-green?style=flat-square&logo=telegram)](https://t.me/LikhonScripts)
+### 🤝 Support & Community
+- [![Telegram Support](https://img.shields.io/badge/Support-Telegram-2CA5E0?style=flat-square&logo=telegram)](https://t.me/LikhonScripts)
+- [![Chat](https://img.shields.io/badge/Chat_on_Telegram-2CA5E0?style=flat-square&logo=telegram)](https://t.me/ScriptsChats)
 
-## 🌐 Visit Our Website
-For more information, visit our [official website](https://likhonscripts.cloud).
+### 🌐 Explore More
+- [Official Website](https://likhonscripts.cloud) - Learn more about our project and vision.
 
-## 🤝 Contributing
-Want to contribute? We love your enthusiasm! Send your contributions to owner@likhonscripts.cloud.
+### 💌 Contribute
+- Contributions are welcome! 🌟 Send pull requests or reach out at owner@likhonscripts.cloud.
 
-## 🛡️ Stay Safe & Ahead
-With Solana Ghost Tracker, you're not just tracking assets; you're staying ahead in the crypto world. Stay safe and make informed decisions with our bot!
+## 💖 Support Our Work
+- [![Patreon](https://img.shields.io/badge/Support_us_on_Patreon-F96854?style=flat-square&logo=patreon)](https://www.patreon.com/LikhonScripts)
+
+### 💸 Crypto Donations
+- **Solana (SOL):** `DfLQjUnA9rwg4BBqnUGytpsiRNVEm7UmK4ERL2ibE7Yi`
+- **Ethereum (ETH):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A`
+
+## 📊 Real-time Data & Analytics
+- Track the latest transactions and wallet analytics through our live data feeds (links to etherscan.io and solscan.io).
 
 ---
 
-![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/SolanaGhostTrackerBot)
-[![Forks](https://img.shields.io/github/forks/LikhonScripts/SolanaGhostTrackerBot?style=flat-square&label=Forks)](https://github.com/LikhonScripts/SolanaGhostTrackerBot/network/members)
-[![Stars](https://img.shields.io/github/stars/LikhonScripts/SolanaGhostTrackerBot?style=flat-square&label=Stars)](https://github.com/LikhonScripts/SolanaGhostTrackerBot/stargazers)
-![Contributors](https://img.shields.io/github/contributors/LikhonScripts/SolanaGhostTrackerBot?color=green&style=flat-square)
-
-## 💬 Community and Support
-- [![Telegram Community](https://img.shields.io/badge/Community-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/LikhonScripts)
-- [![Chat on Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/ScriptsChats)
-
-## 🤝 Support Our Work
-Support us on Patreon:
-[![Patreon](https://img.shields.io/badge/donate-Patreon-orange.svg?style=flat-square&logo=patreon)](https://www.patreon.com/LikhonScripts)
-
-### Crypto Donations
-- **Solana (SOL):** `DfLQjUnA9rwg4BBqnUGytpsiRNVEm7UmK4ERL2ibE7Yi` [![Trust Wallet](https://img.shields.io/badge/Pay-SOL-blueviolet?style=flat-square)](https://link.trustwallet.com/send?asset=c501&address=DfLQjUnA9rwg4BBqnUGytpsiRNVEm7UmK4ERL2ibE7Yi)
-- **Ethereum (ETH):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A` [![Trust Wallet](https://img.shields.io/badge/Pay-ETH-blueviolet?style=flat-square)](https://link.trustwallet.com/send?asset=c60&address=0x00fC876d03172279E04CC30E5edCE103c3d23C1A)
-
-- ## 💬 Community and Support
-- [![Telegram Community](https://img.shields.io/badge/Community-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/LikhonScripts)
-- [![Chat on Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/ScriptsChats)
-
-
-Solana Ghost Tracker Bot - Your ultimate Solana Blockchain Utility Bot! 🚀
+Solana Ghost Tracker Bot - Navigate the Solana Blockchain with precision and ease! ✨🚀
