@@ -1,7 +1,10 @@
 # Solana Ghost Tracker Bot 👻🌐
 
+[![Forks](https://img.shields.io/github/forks/LikhonScripts/SolanaGhostTrackerBot?style=flat-square&label=Forks)](https://github.com/LikhonScripts/SolanaGhostTrackerBot/network/members)
+[![Stars](https://img.shields.io/github/stars/LikhonScripts/SolanaGhostTrackerBot?style=flat-square&label=Stars)](https://github.com/LikhonScripts/SolanaGhostTrackerBot/stargazers)
+![Contributors](https://img.shields.io/github/contributors/LikhonScripts/SolanaGhostTrackerBot?color=green&style=flat-square)
 
-## 🎨 Dynamic & Colorful 
+## 🎨 What is Solana Ghost Tracker?
 Solana Ghost Tracker & Telegram Tracker Bot repository, where you can track your Solana assets and interact with the Solana blockchain through our Telegram bot.
 
 ![Solana Ghost Tracker Banner](https://raw.githubusercontent.com/LikhonScripts/SolanaGhostTrackerBot/main/IMG_8677.png)
@@ -12,9 +15,7 @@ Solana Ghost Tracker & Telegram Tracker Bot repository, where you can track your
 - **Ethereum (ETH):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A` [![Trust Wallet](https://img.shields.io/badge/Pay-ETH-blueviolet?style=flat-square)](https://link.trustwallet.com/send?asset=c60&address=0x00fC876d03172279E04CC30E5edCE103c3d23C1A)
 
 
-[![Forks](https://img.shields.io/github/forks/LikhonScripts/SolanaGhostTrackerBot?style=flat-square&label=Forks)](https://github.com/LikhonScripts/SolanaGhostTrackerBot/network/members)
-[![Stars](https://img.shields.io/github/stars/LikhonScripts/SolanaGhostTrackerBot?style=flat-square&label=Stars)](https://github.com/LikhonScripts/SolanaGhostTrackerBot/stargazers)
-![Contributors](https://img.shields.io/github/contributors/LikhonScripts/SolanaGhostTrackerBot?color=green&style=flat-square)
+
 
 ## 💬 Community and Support
 - [![Telegram Community](https://img.shields.io/badge/Community-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/LikhonScripts)
