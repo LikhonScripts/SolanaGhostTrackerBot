@@ -48,13 +48,6 @@ The Solana Ghost Tracker Bot is your gateway to managing and tracking your Solan
 ## 💖 Support Our Work
 - [![Patreon](https://img.shields.io/badge/Support_us_on_Patreon-F96854?style=flat-square&logo=patreon)](https://www.patreon.com/LikhonScripts)
 
-### 💸 Check Crypto Donations & Wallets For Contributor Workflow!
-- **Solana (SOL):** `DfLQjUnA9rwg4BBqnUGytpsiRNVEm7UmK4ERL2ibE7Yi`
-- **Ethereum (ETH):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A`
-
-## 📊 Real-time Data & Analytics
-- Track the latest transactions and wallet analytics through our live data feeds (links to etherscan.io and solscan.io).
-
 ---
 
 Solana Ghost Tracker Bot - Navigate the Solana Blockchain with precision and ease! ✨🚀
